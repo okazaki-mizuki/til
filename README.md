@@ -1,6 +1,3 @@
-"# TIL" 
-"# TIL" 
-"# TIL" 
-"# TIL" 
-"# TIL" 
-"# TIL" 
+"# TIL (Today I learned)
+こちらのリポジトリは学習用のリポジトリです
+
